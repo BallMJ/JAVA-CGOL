@@ -1,1 +1,1 @@
-"# JAVA-Conway-s-Game-of-Life-" 
+"# JAVA-Conways Game of Life" 
