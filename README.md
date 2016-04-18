@@ -1,1 +1,1 @@
-"# JAVA-Conways Game of Life" 
+Conway's Game of Life developed in Java
